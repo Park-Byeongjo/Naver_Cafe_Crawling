@@ -10,3 +10,4 @@ naver cafe article, link, time crawl
 * Django 3.0.4
 * Selenium 3.141
 * Bs4 0.0.1
+* OS windows10
